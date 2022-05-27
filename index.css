@@ -1,35 +1,47 @@
+body {
+  background-color: #333;
+  font-family: 'Montserrat';
+}
+
 .header {
+    font-family: 'Montserrat';
     background-color: #2E5077;
     width: auto;
     height: 100px;
     text-align: center;
     line-height: 100px;
+    color: white;
 }
 
 .head_menu {
+  font-family: 'Montserrat';
     background-color: #E54B4B;
     width: auto;
     height: 50px;
 }
 
 .head_menu_button {
+    font-family: 'Montserrat';
     margin-top: auto;
     margin-bottom: auto;
 }
 
 .main {
+    font-family: 'Montserrat';
     background-color: #89937C;
     width: auto;
     height: 500px;
 }
 
 .footer {
+    font-family: 'Montserrat';
     background-color: #E54B4B;
     width: auto;
     height: 50px;
 }
 
 ul {
+    font-family: 'Montserrat';
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -38,10 +50,12 @@ ul {
   }
   
   li {
+    font-family: 'Montserrat';
     float: left;
   }
   
   li a {
+    font-family: 'Montserrat';
     display: block;
     color: white;
     text-align: center;
@@ -50,5 +64,6 @@ ul {
   }
   
   li a:hover {
-    background-color: #111;
+    font-family: 'Montserrat';
+    background-color: #E54B4B;
   }
